@@ -1,1 +1,2 @@
 Here is some text that I'm adding into demo.txt
+This text file is meant only for exercise.
